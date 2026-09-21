@@ -1,4 +1,5 @@
 rootProject.name = 'noodle'
 
 include 'catalogue-tests'
+include 'common-lib'
 
